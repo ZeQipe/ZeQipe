@@ -5,5 +5,5 @@
 <img src="https://pa1.narvii.com/6900/37d4565180595f86c15cef64b9218feb72761057r1-540-304_hq.gif" alt="Banner">
 </p>
 
-<h1 align="center">Меня зовут<a href="https://www.edisonlee55.com">Ишчанов ЖУрабек</a>!</h1>
-<h1 align="center">Добро пожаловать в мой профиль!</h1>
+<h1 align="center">Меня зовут <a href="https://www.edisonlee55.com">Ишчанов Журабек</a>!<br/>Добро пожаловать в мой профиль!</h1>
+<h1 align="center"></h1>
