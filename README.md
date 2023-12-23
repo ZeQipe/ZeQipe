@@ -8,56 +8,33 @@
   font-size=7px>
   I am a full-stack developer in the Python programming language. Let's get to know each other better 👇
 </h2>
-## Обо мне
+## about me
 
-- 🔭 Я сейчас работаю над ...
-- 🌱 Сейчас я учусь ...
-- 👯 Я хочу сотрудничать над ...
-- 🤔 Я ищу помощь с ...
-- 💬 Спросите меня о ...
-- 📫 Как со мной связаться: ...
-- 😄 Мои увлечения: ...
-- ⚡ Факт о мне: ...
+- 🔭 I am currently taking courses for self-development and pumping hard-skills. I am developing GUI applications.
+- 📫 You can contact me on social networks such as VKontakte and Instagram. Unfortunately, I can answer for a long time, but I will not leave my number here either 👀
+- 😄 I really like my craft. I work a lot on self-development, I study new libraries and frameworks. I keep a close eye on new products and updates.
+- ⚡ I want to build up my skills so that one day I can become a strong developer.
 
-## Мои навыки
+## My skills
 ### SOFT SKILLS
-- Деловой этикет
-- Эмоциональный интеллект
-- Усидчевость
-- Стремление к саморазвитию
-- Критическое мышление
-- Насмотренность, чувство вкуса
-- Организованность и тайм менеджмент
-- Работа в команде
+- Business etiquette, insubordination
+- Emotional intelligence, Assiduity, stress resistance
+- Striving for self-development
+- Critical thinking, non-standard solutions
+- Understanding the priority of tasks
+- The ability to keep the code clean
+- Organization and time management
+- Teamwork, finding a common language with colleagues
 ### HARD SKILLS
-- HTML5, CSS3
-- Уверенные применения системы контроля версии Git/GitHub
-- Уверенные знания SQL, работа с MySQL на уровне подзапросов и нормальных форм.
-- Уверенные знания Python, и понимание принципов ООП
-- Начальные знания Bootstrap
-
+- Confident skills in using the Git version control system/GitHub
+- Confident knowledge of SQL, working with MySQL at the level of subqueries and normal forms.
+- Strong knowledge of Python, and understanding of the principles of OOP
 ### BONUS SKILLS
 
 ## Статистика GitHub
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=ваш_username&show_icons=true)
+
 
 ## Связаться со мной
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](ссылка_на_ваш_профиль)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](ссылка_на_ваш_линкедин)
 ... добавьте другие социальные сети по желанию
-
-## Мои последние Pet-проекты
-<!-- BLOG-POST-LIST:START -->
-линк линк линк
-- [Название поста 1](ссылка_на_пост)
-- [Название поста 2](ссылка_на_пост)
-<!-- BLOG-POST-LIST:END -->
-
-## Благодарности и сертификаты
-- 🏆 человек
-- 🏆 питонист
-- 🏆 не вру
-... и так далее
-
-## Вклад в Open Source
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ваш_username&theme=dark&background=000000)](ссылка_на_ваш_профиль)
