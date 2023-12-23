@@ -9,9 +9,13 @@
   I am a full-stack developer in the Python programming language. Let's get to know each other better 👇
 </h2>
 ## About me
+
 - 🔭 I am currently taking courses for self-development and pumping hard-skills. I am developing GUI applications. 🧐
+
 - 📫 YOU can contact me on social media such as Instagram, or by mail zeqipe@vk.com. Unfortunately, I can answer for a long time, but I will not leave my number here either 👀
+
 - 😄 I really like my craft. I work a lot on self-development, I study new libraries and frameworks. I keep a close eye on new products and updates.
+
 - ⚡ I want to build up my skills so that one day I can become a strong developer.😎
 
 
