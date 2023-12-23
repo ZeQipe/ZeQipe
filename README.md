@@ -6,6 +6,6 @@
 </p>
 
 <h1 align="center">
-  Меня зовут Ишчанов Журабек, <a href="https://github.com/ZeQipe"><br/>Добро пожаловать в мой профиль!
+  Меня зовут <a href="https://github.com/ZeQipe"> Ишчанов Журабек </a>, <br/>Добро пожаловать в мой профиль!
 </h1>
 <h1 align="center"></h1>
