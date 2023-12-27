@@ -36,7 +36,7 @@
 ### BONUS SKILLS
 
 ## Statistics GitHub
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=zeqipe&count_private=true&show_icons=true)
 ## Statistics Codewars
 
 ## Statistics litcode
