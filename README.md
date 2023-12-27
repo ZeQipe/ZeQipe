@@ -36,9 +36,9 @@
 ### BONUS SKILLS
 
 ## Statistics GitHub
-![Github Stats](https://github-readme-stats.vercel.app/api?username=zeqipe&count_private=true&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=zeqipe&count_private=true&show_icons=true_font=Moulpali)
 ## Statistics Codewars
-![Codewars](https://github.r2v.ch/codewars?user=ZeQipe&theme=gradient&stroke=%23BB432C)
+![Codewars](https://github.r2v.ch/codewars?user=ZeQipe&theme=gradient&stroke=%23BB432C&font=Moulpali)
 ## Statistics litcode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ZeQipe?theme=dark&font=Moulpali)
 ## Contact me
