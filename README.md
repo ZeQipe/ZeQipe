@@ -40,7 +40,6 @@
 ## Statistics Codewars
 ![Codewars](https://github.r2v.ch/codewars?user=ZeQipe&theme=gradient&stroke=%23BB432C)
 ## Statistics litcode
-![Leetcode Stats](https://leetcard.Zeqipe.cool/Zeqipe)
-![](https://leetcard.ZeQipe.cool/ZeQipecool?animation=false)
+![Leetcode Stats](https://leetcard.Zeqipe/Zeqipe?theme=dark)
 ## Contact me
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([ссылка_на_ваш_профиль](https://github.com/ZeQipe?tab=overview&from=2023-10-01&to=2023-10-31))
