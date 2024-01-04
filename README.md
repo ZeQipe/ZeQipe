@@ -33,8 +33,12 @@
 - Confident skills in using the Git version control system/GitHub
 - Confident knowledge of SQL, working with MySQL at the level of subqueries and normal forms.
 - Strong knowledge of Python, and understanding of the principles of OOP
+- Experience in writing a Software Development Plan
+- Creating a diagram of classes and dependencies. Description of the application lifecycle.
 ### BONUS SKILLS
-
+- Experience working on Adobe Photoshop, Premier and some other products.
+- I have experience in teaching in the field of "Fundamentals of programming in Python"
+- Experience in writing console applications, forming tasks and decomposing complex tasks.
 ## Statistics GitHub
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zeqipe&count_private=true&show_icons=true_font=Moulpali)
 ## Statistics Codewars
