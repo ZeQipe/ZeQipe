@@ -39,11 +39,11 @@
 - Experience working on Adobe Photoshop, Premier and some other products.
 - I have experience in teaching in the field of "Fundamentals of programming in Python"
 - Experience in writing console applications, forming tasks and decomposing complex tasks.
-## Statistics GitHub
-![Github Stats](https://github-readme-stats.vercel.app/api?username=zeqipe&count_private=true&show_icons=true_font=Moulpali)
+<!-- ## Statistics GitHub
+![Github Stats](https://github-readme-stats.vercel.app/api?username=zeqipe&count_private=true&show_icons=true_font=Moulpali) -->
 ## Statistics Codewars
 ![Codewars](https://github.r2v.ch/codewars?user=ZeQipe&theme=gradient&stroke=%23BB432C&font=Moulpali)
-## Statistics litcode
-![LeetCode Stats](https://leetcard.jacoblin.cool/ZeQipe?theme=dark&font=Moulpali)
+<!-- ## Statistics litcode
+![LeetCode Stats](https://leetcard.jacoblin.cool/ZeQipe?theme=dark&font=Moulpali) -->
 ## Contact me
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([ссылка_на_ваш_профиль](https://github.com/ZeQipe?tab=overview&from=2023-10-01&to=2023-10-31))
