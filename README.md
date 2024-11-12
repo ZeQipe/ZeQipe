@@ -21,23 +21,29 @@
 
 ## My skills
 ### SOFT SKILLS
-- Business etiquette, insubordination
-- Emotional intelligence, Assiduity, stress resistance
+- Business etiquette, subordination
+- Emotional intelligence, perseverance, stress resistance
 - Striving for self-development
 - Critical thinking, non-standard solutions
 - Understanding the priority of tasks
-- The ability to keep the code clean
+- Ability to maintain clean code
 - Organization and time management
 - Teamwork, finding a common language with colleagues
+
 ### HARD SKILLS
-- Confident skills in using the Git version control system/GitHub
+- Confident skills in using the Git/GitHub version control system
 - Confident knowledge of SQL, working with MySQL at the level of subqueries and normal forms.
-- Strong knowledge of Python, and understanding of the principles of OOP
+- Confident knowledge of Python, understanding of OOP principles
 - Experience in writing a Software Development Plan
-- Creating a diagram of classes and dependencies. Description of the application lifecycle.
+- Creating a class and dependency diagram. Description of the application life cycle.
+- Knowledge of Django, Flask frameworks
+- Docker skills, project containerization
+- Understanding of network requests
+- HTML5, CSS3, JS - superficial knowledge and understanding
+
 ### BONUS SKILLS
-- Experience working on Adobe Photoshop, Premier and some other products.
-- I have experience in teaching in the field of "Fundamentals of programming in Python"
+- Experience in Adobe Photoshop, Premier and some other products.
+- I have experience in teaching in the direction of "Fundamentals of Python programming"
 - Experience in writing console applications, forming tasks and decomposing complex tasks.
 <!-- ## Statistics GitHub
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zeqipe&count_private=true&show_icons=true_font=Moulpali) -->
